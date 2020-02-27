@@ -1,0 +1,15 @@
+----------------------------------------For Bookings:-----------------------------------------------
+Booking Id
+From Date
+Till Date
+Number of Rooms booking
+Room No.
+Payment Status
+Plannings
+----------------------------------------Customer Details:-----------------------------------------
+Customer Id
+Name
+Address
+Contact Number
+Email Address
+-----------------------------------------XXXXXXXXXXXX----------------------------------------
